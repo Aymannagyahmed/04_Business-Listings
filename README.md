@@ -1,6 +1,6 @@
 ## Introduction
 
-Business-Listings is a authentication and CRUD PHP web application that allow users to manage their Favorite bookmarks that includes adding ,removing, editting using:
+Business-Listings is a Authentication and CRUD PHP web application that allow users to manage their Favorite bookmarks that includes adding ,removing, editting using:
 
 - mysql
 - Laravel 7
