@@ -5,7 +5,7 @@ Business-Listings is a authentication and CRUD PHP web application that allow us
 - mysql
 - Laravel 7
 - php
-- **[Laravel ollective](https://laravelcollective.com/)**
+- **[Laravel Collective](https://laravelcollective.com/)**
 - bootstrap 4
 
 ## Instlation
